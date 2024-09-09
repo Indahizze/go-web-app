@@ -5,7 +5,10 @@
 trigger:
   paths:
     include:
-      - go-web-app/*
+      - static/*
+      - Dockerfile/*
+      - go.mod/*
+      - main.go/*
 
 resources:
 - repo: self
