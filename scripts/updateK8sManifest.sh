@@ -3,7 +3,7 @@
 set -x
 
 # Set the repository URL
-REPO_URL="https://duqswwdc4tnmn2aroohas76y5unnnchl53r2xzilri3yn56teqmq@dev.azure.com/indatechgaming/go-web-app/_git/go-web-app"
+REPO_URL="https://7y63umzzfigdn534w5hfqszhvn5jflp7ynnddyqbj5igjv6hyl6q@dev.azure.com/indatechgaming/go-web-app/_git/go-web-app"
 
 # Clone the git repository into the /tmp directory
 git clone "$REPO_URL" /tmp/temp_repo
