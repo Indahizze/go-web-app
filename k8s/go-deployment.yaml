@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: go-web-app
-        image: threetierapp.azurecr.io/gowebapp:87
+        image: threetierapp.azurecr.io/gowebapp:89
         ports:
         - containerPort: 8080
